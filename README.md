@@ -1,4 +1,7 @@
 # Actividad_1-Anddy-Prendas-Progra4
+
+1. Ofertas laborales:
+
 Nombre del puesto 1: Desarrollador Junior .NET (Trabajo Remoto)
 Tecnologías requeridas: .NET, C#, Git (u otro sistema de control de versiones)
 Habilidades técnicas (hard skills):
@@ -87,3 +90,25 @@ Mantener y mejorar aplicaciones de software bajo la supervisión de un líder t�
 Participar en proyectos de desarrollo de aplicaciones asignados
 Colaborar con otros equipos dentro de la función de TI para los proyectos correspondientes
 Cumplir con otras tareas asignadas según las necesidades del área
+
+2. Patrones en común
+
+Identifiqué que la mayoría requería dominio del lenguaje C/C++ y Python. También el uso de control de versiones con git, disposición de aprender plataformas clou. Se exige también inglés avanzado, trabajo en equipo, comunicación efectiva.
+
+3. Perfil profesional:
+
+Soy un desarrollador en formación con conocimientos sólidos en programación orientada a objetos, manejo de lenguajes como Python, C# y Java, control de versiones con Git, y fundamentos de bases de datos relacionales con SQL. Mi enfoque está en el desarrollo backend y la calidad del código, con interés creciente en tecnologías cloud y automatización.
+Me distingo por tener un nivel de inglés avanzado, lo que me permite participar activamente en equipos internacionales, revisar documentación técnica y comunicarme en reuniones multiculturales. Además, destaco por mi capacidad de aprendizaje rápido y disposición para colaborar en entornos ágiles.
+
+4. Justificación
+El perfil de Desarrollador Backend Junior con orientación a trabajo remoto fue seleccionado porque representa la intersección más natural entre mi formación académica y las demandas reales del mercado identificadas en las cuatro ofertas analizadas. Como estudiante de Ingeniería en Sistemas, mi carrera me ha expuesto a una variedad amplia de tecnologías desde lenguajes como C/C++ hasta lenguajes de más alto nivel como Python y Java lo cual me ha dado una base técnica versátil que se alinea directamente con lo que buscan empresas como Cisco, Joby Aviation, Encore Capital y el puesto remoto de .NET. Este perfil no exige especialización extrema en una sola tecnología, sino precisamente esa capacidad de adaptarse y aprender rápido que yo he desarrollado al trabajar con distintas herramientas a lo largo de la carrera. Además, contar con un nivel avanzado de inglés me posiciona favorablemente frente a otros candidatos juniors, dado que el idioma fue el único requisito presente en la totalidad de las ofertas revisadas, y muchos perfiles técnicos locales no logran demostrarlo con convicción. En conjunto, este perfil me permite postularme con honestidad a oportunidades reales en el corto plazo, sin sobrevender experiencia que aún no tengo, pero sí destacando las fortalezas concretas que ya poseo.
+
+5. Diferenciadores
+
+El inglés fue el único requisito presente en las 4 ofertas sin excepción, siendo en 3 de ellas un requisito de nivel avanzado. Sin embargo, la mayoría de candidatos en el mercado local no puede demostrar este nivel de forma convincente en su postulación.
+¿Cómo me diferencio?
+Mi sitio web está escrito completamente en inglés, lo que demuestra dominio real del idioma desde el primer instante. Adicionalmente, incluyo una sección con experiencias donde apliqué el inglés en contextos técnicos .
+
+Las 4 ofertas valoran la capacidad de "desarrollar software estable", "escribir código limpio" y "participar en revisiones de código". Muchos candidatos juniors solo listan tecnologías en su CV, sin mostrar evidencia de lo que saben hacer.
+En mi portafolio presento proyectos con contexto real como descripción del problema que resuelven, tecnologías usadas, decisiones técnicas tomadas y enlace al repositorio en GitHub. Esto convierte mi sitio en una demostración viva de mis habilidades, no solo un resumen de ellas.
+   
