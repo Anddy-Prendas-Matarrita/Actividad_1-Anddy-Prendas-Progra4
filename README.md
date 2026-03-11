@@ -105,7 +105,7 @@ El perfil de Desarrollador Backend Junior con orientación a trabajo remoto fue 
 
 5. Diferenciadores
 
-El inglés fue el único requisito presente en las 4 ofertas sin excepción, siendo en 3 de ellas un requisito de nivel avanzado. Sin embargo, la mayoría de candidatos en el mercado local no puede demostrar este nivel de forma convincente en su postulación.
+El inglés fue el único requisito presente en las 5 ofertas sin excepción, siendo en 4 de ellas un requisito de nivel avanzado. Sin embargo, la mayoría de candidatos en el mercado local no puede demostrar este nivel de forma convincente en su postulación.
 ¿Cómo me diferencio?
 Mi sitio web está escrito completamente en inglés, lo que demuestra dominio real del idioma desde el primer instante. Adicionalmente, incluyo una sección con experiencias donde apliqué el inglés en contextos técnicos .
 
