@@ -112,3 +112,4 @@ Mi sitio web está escrito completamente en inglés, lo que demuestra dominio re
 Las 4 ofertas valoran la capacidad de "desarrollar software estable", "escribir código limpio" y "participar en revisiones de código". Muchos candidatos juniors solo listan tecnologías en su CV, sin mostrar evidencia de lo que saben hacer.
 En mi portafolio presento proyectos con contexto real como descripción del problema que resuelven, tecnologías usadas, decisiones técnicas tomadas y enlace al repositorio en GitHub. Esto convierte mi sitio en una demostración viva de mis habilidades, no solo un resumen de ellas.
    
+LINK PARA DISEÑO EN SIGMA https://www.figma.com/design/bdsKbT78GA7r7J0OZV6YER/Portafolio?node-id=0-1&t=eZH2GDyV1ZEiUcS2-1
